@@ -1,5 +1,5 @@
 # ML Reading List
-##ImageNet Architectures and Tricks
+## ImageNet Architectures and Tricks
 **Papers**:
 
 -   Architectures
