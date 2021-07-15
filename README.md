@@ -1,8 +1,7 @@
 # ML Reading List
 ## ImageNet Architectures and Tricks
-**Papers**:
 
--   Architectures
+### Architectures
 
 -   [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)\*
 
