@@ -182,3 +182,133 @@
 -   [RevNet](https://arxiv.org/abs/1707.04585)
 
 -   [Gradient Checkpointing](https://arxiv.org/pdf/1904.10631.pdf)
+
+
+## Unsupervised Learning
+###   Generative Adversarial Networks
+
+-   [GAN](https://arxiv.org/abs/1406.2661)
+
+-   [DCGAN](https://arxiv.org/abs/1511.06434)
+
+-   [InfoGAN](https://arxiv.org/abs/1606.03657)
+
+-   [Improved GAN](https://arxiv.org/abs/1606.03498)
+
+-   [WGAN](https://arxiv.org/abs/1701.07875)
+
+-   [WGAN-GP](https://arxiv.org/abs/1704.00028)
+
+-   [MMD GAN](https://arxiv.org/abs/1705.08584)
+
+-   [StyleGAN](https://arxiv.org/abs/1812.04948)
+
+-   [PG-GAN](https://arxiv.org/abs/1710.10196)
+
+-   [SA-GAN](https://arxiv.org/abs/1805.08318)
+
+-   [SN-GAN](https://openreview.net/pdf?id=B1QRgziT-)
+
+-   [BigGAN](https://arxiv.org/abs/1809.11096)
+
+-   [S3GAN](https://arxiv.org/abs/1903.02271)
+
+###   Style Transfer and Colorization
+
+-   [pix2pix](https://arxiv.org/abs/1611.07004)
+
+-   [CycleGAN](https://arxiv.org/abs/1703.10593)
+
+-   [Attention-Guided CycleGAN](https://arxiv.org/abs/1806.02311)
+
+-   [vid2vid](https://arxiv.org/abs/1808.06601)
+
+-   [Everybody Dance Now](https://arxiv.org/abs/1808.07371)
+
+-   [Style Transfer](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+
+-   [Fast Style Transfer](https://arxiv.org/abs/1603.08155)
+
+-   [Image Colorization](https://arxiv.org/abs/1603.08511)
+
+-   [Tracking Emerges](https://arxiv.org/abs/1806.09594)
+
+###   Autoregressive Models
+
+-   [MADE](https://arxiv.org/abs/1502.03509)
+
+-   [Pixel Recurrent Neural Networks](https://arxiv.org/abs/1601.06759)
+
+-   [PixelCNN](https://arxiv.org/abs/1606.05328)
+
+-   [PixelCNN++](https://arxiv.org/abs/1701.05517)
+
+-   [PixelSNAIL](https://arxiv.org/abs/1712.09763)
+
+-   [WaveNet](https://arxiv.org/abs/1609.03499)
+
+-   [WaveRNN](https://arxiv.org/abs/1802.08435)
+
+-   [SPN](https://arxiv.org/abs/1812.01608)
+
+-   [Image Transformer](https://arxiv.org/abs/1802.05751)
+
+###   Normalizing Flows
+
+-   [NICE](https://arxiv.org/abs/1410.8516)
+
+-   [RealNVP](https://arxiv.org/abs/1605.08803)
+
+-   [Glow](https://arxiv.org/abs/1807.03039)
+
+-   [WaveGlow](https://arxiv.org/abs/1811.00002)
+
+-   [Flow++](https://arxiv.org/abs/1902.00275)
+
+-   [Parallel WaveNet](https://arxiv.org/abs/1711.10433)
+
+###   Variational AutoEncoders
+
+-   [VAE Tutorial](https://arxiv.org/abs/1606.05908)
+
+-   [beta-VAE](https://openreview.net/forum?id=Sy2fzU9gl)
+
+-   [VQ-VAE](https://arxiv.org/abs/1711.00937)
+
+-   [VQ-VAE-2](https://arxiv.org/abs/1906.00446)
+
+-   [Variational Inference with Flows](https://arxiv.org/abs/1505.05770)
+
+-   [IAF](https://arxiv.org/abs/1606.04934)
+
+-   [Variational Lossy Autoencoder](https://arxiv.org/abs/1611.02731)
+
+###   Other Representation Learning
+
+-   [SDAE](http://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf)
+
+-   [Revisiting Self-Sup Learning](https://arxiv.org/abs/1901.09005)
+
+-   [Puzzle](https://arxiv.org/abs/1505.05192)
+
+-   [RotNet](https://arxiv.org/abs/1803.07728)
+
+-   [CPC](https://arxiv.org/abs/1807.03748)
+
+-   [Imagenet Transfer](https://arxiv.org/abs/1805.08974)
+
+-   [Instagram Models](https://arxiv.org/abs/1805.00932)
+
+###   Evaluating Generative Models
+
+-   [A Note](https://arxiv.org/abs/1511.01844)
+
+-   [A Note on IS](https://arxiv.org/abs/1801.01973)
+
+-   [FID Explanation](https://medium.com/@jonathan_hui/gan-how-to-measure-gan-performance-64b988c47732)
+
+-   [NND](https://openreview.net/forum?id=HkxKH2AcFm)
+
+-   [Pros & Cons of GAN Metrics](https://arxiv.org/abs/1802.03446)
+
+-   [Skill Rating](https://arxiv.org/abs/1808.04888)
